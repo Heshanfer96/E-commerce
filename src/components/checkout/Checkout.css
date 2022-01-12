@@ -1,0 +1,20 @@
+.checkout {
+  display: flex;
+  background-color: white;
+  margin-bottom: 10px;
+}
+
+.chechout_right {
+  flex: 2;
+}
+
+.checkout_top_image {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.Bucket_heading {
+  border-bottom: 1px solid black;
+  font-weight: 700;
+}
