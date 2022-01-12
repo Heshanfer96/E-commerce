@@ -34,3 +34,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 this is the front-end of the e-commerce application that I created using react. in this application, I used many libraries. and firebase as the database. I use firebase authentications for login pages and I tye to use stripe as a payment gateway. but it was not a success because of that I spend more time on this task. I think i covered that u request to do and please give me and response after looking at that.
 
 Thank you.
+Heshan Fernando
